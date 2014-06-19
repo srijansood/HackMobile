@@ -1,7 +1,7 @@
 HackMobile
 ==========
 
-Inventory your fridge. Connect friends. Learn to cook. Win hackathons
+Inventory your fridge. Connect with friends. Learn to cook. Win hackathons
 
 
 Core Functionality (2 People)
