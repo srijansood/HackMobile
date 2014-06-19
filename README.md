@@ -7,7 +7,7 @@ Inventory your fridge. Connect friends. Learn to cook. Win hackathons
 Core Functionality (2 People)
 -----------------------------
 
-- Build the system that takes the picture and processes it into the database (will involve compression, and [hashing](http://stackoverflow.com/questions/25977/how-can-i-measure-the-similarity-between-two-images) and/or [pixel color distribution](http://stackoverflow.com/questions/843972/image-comparison-fast-algorithm)). 
+- Build the system that takes the picture and processes it into the database (will involve compression, and [hashing](http://stackoverflow.com/questions/25977/how-can-i-measure-the-similarity-between-two-images) and/or [pixel color distribution](http://stackoverflow.com/questions/843972/image-comparison-fast-algorithm) - first answer, 2nd method). 
 - Implement search algorithm to find items taken out of the fridge matching old ones (present a few results, highlighting the best one, and allow users to select or scroll through other close ones for the correct image). Can implement something like Levenshtein matching for nerd cred!
 - May also need database of common items to match photos to actual objects, see below
 - This is a hack, we can just use a few common demo items and photos and make sure it works for them. Ideally would be fully automatic (motion sensor for taking photo) but doesn't have to be for hackathon!
