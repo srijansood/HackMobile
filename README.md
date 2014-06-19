@@ -15,5 +15,5 @@ Core Functionality (2 People)
 Social Connection and Education (1-2 People)
 ----------------------------
 
-- Share with friends what's in your fridge, update when you have compatible items (you have chips? I have salsa, let's eat!)
+- Share with friends what's in your fridge, update when you have compatible items (you have chips? I have salsa, let's eat!) - would have collection of recipes and search for items that go together.
 - See if ingredients with or without friends match recipes, and teach them to cook the recipe
